@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 cb5fae2efb8c207c87189a43b8067a0ba8a1af95 iamsap <robbymillsap@gmail.com> 1579826077 -0800	commit (initial): Checking in code
+cb5fae2efb8c207c87189a43b8067a0ba8a1af95 f8bacb17f2fe890a07d9390cc3513bf22a0f0d71 iamsap <robbymillsap@gmail.com> 1580338749 -0800	commit: Added build pipeline
+f8bacb17f2fe890a07d9390cc3513bf22a0f0d71 454c1ba40fa349779540b78653a22bed997ec24c iamsap <robbymillsap@gmail.com> 1580339233 -0800	commit: Latest pipeline file
+454c1ba40fa349779540b78653a22bed997ec24c 3838738245abc448a24803dd7086691da48dfd60 iamsap <robbymillsap@gmail.com> 1582262842 -0800	commit: Latest
+3838738245abc448a24803dd7086691da48dfd60 0b4cc92544e9a1da2f6f40117a584dccebc1603e iamsap <robbymillsap@gmail.com> 1582263000 -0800	commit: Added build-pipeline.yaml
+0b4cc92544e9a1da2f6f40117a584dccebc1603e b40e6024f68dbc4f42265332f1e75ecf9ace2762 iamsap <robbymillsap@gmail.com> 1582263156 -0800	commit: Yaml
+b40e6024f68dbc4f42265332f1e75ecf9ace2762 690d4a789fc2583f4394481b928b296267abf7d6 iamsap <robbymillsap@gmail.com> 1582263364 -0800	commit: Add build-pipeline file
+690d4a789fc2583f4394481b928b296267abf7d6 83d00ec71a96a5c62704556ce0153e837922d8bb iamsap <robbymillsap@gmail.com> 1582263491 -0800	commit: testing
+83d00ec71a96a5c62704556ce0153e837922d8bb 86c72669195f7bb9057b5b081fb9c41b798facc7 iamsap <robbymillsap@gmail.com> 1582263546 -0800	commit: no way
+86c72669195f7bb9057b5b081fb9c41b798facc7 dcb79e25872fffdcb1c1d88f3e892c105f6c08f3 iamsap <robbymillsap@gmail.com> 1582263606 -0800	commit: Removing
+dcb79e25872fffdcb1c1d88f3e892c105f6c08f3 8255d833f0f4aca53829b531f79047782028c435 iamsap <robbymillsap@gmail.com> 1582264118 -0800	commit: Added build-pipeline.yaml
+8255d833f0f4aca53829b531f79047782028c435 b9e9cde0f9400f83f9b6ce85058a98e5d1c457ac iamsap <robbymillsap@gmail.com> 1582264267 -0800	commit: Added v2 to our build script
+b9e9cde0f9400f83f9b6ce85058a98e5d1c457ac b230ff03c15c0ee71a399cabc06831e241f95b1e iamsap <robbymillsap@gmail.com> 1582337651 -0800	commit: Added actual build stuff
+b230ff03c15c0ee71a399cabc06831e241f95b1e 2dd2b38abe221aab0ab46d80e91aa5834cbd36ed iamsap <robbymillsap@gmail.com> 1582337995 -0800	commit: Put this back
+2dd2b38abe221aab0ab46d80e91aa5834cbd36ed d71195dcbf9d1841b47ed481270510f0b557d181 iamsap <robbymillsap@gmail.com> 1582338594 -0800	commit: Fixed typo
+d71195dcbf9d1841b47ed481270510f0b557d181 95d4e00334917591b0e40c4ccbcfaf1cf93365f1 iamsap <robbymillsap@gmail.com> 1582338650 -0800	commit: Put it back
+95d4e00334917591b0e40c4ccbcfaf1cf93365f1 f273420c1dcd90cac42074598c017dd71c73c850 iamsap <robbymillsap@gmail.com> 1582338659 -0800	pull --verbose --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'recursive' strategy.
+f273420c1dcd90cac42074598c017dd71c73c850 333e5543d2f080f36eb33779ef2ac28c12aea977 iamsap <robbymillsap@gmail.com> 1582338685 -0800	commit: Fixed typo
+333e5543d2f080f36eb33779ef2ac28c12aea977 91825209083e7a5bfe117668095aa4ff553180af iamsap <robbymillsap@gmail.com> 1582434535 -0800	pull --verbose --progress --no-edit --no-stat --recurse-submodules=no origin: Fast-forward
+91825209083e7a5bfe117668095aa4ff553180af 7fa5dc56a035855a8a8a03df69915c4ea4bc1e88 iamsap <robbymillsap@gmail.com> 1582434952 -0800	commit: Restored pipeline
+7fa5dc56a035855a8a8a03df69915c4ea4bc1e88 ceb4578088f11f0fd9818b9ca1018594eed15de9 iamsap <robbymillsap@gmail.com> 1582435858 -0800	commit: Fixed
